@@ -1,2 +1,1 @@
-# manuheabebe
-Manuhe Abebe Website
+# mgabebe.github.io
